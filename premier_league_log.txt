@@ -1,0 +1,5 @@
+Best estimator LogisticRegression(C=1.4, class_weight='balanced', random_state=42,
+                   warm_start=True) 
+, Best index 216 
+, Best parameters {'C': 1.4, 'class_weight': 'balanced', 'intercept_scaling': 1, 'penalty': 'l2', 'random_state': 42, 'solver': 'lbfgs', 'warm_start': True} 
+, Best Score 0.48 

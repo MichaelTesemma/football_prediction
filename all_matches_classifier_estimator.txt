@@ -1,0 +1,6 @@
+Best estimator MLPClassifier(activation='tanh', early_stopping=True,
+              hidden_layer_sizes=(10, 33, 1), learning_rate='invscaling',
+              max_iter=10000, validation_fraction=0.2, verbose=True) 
+, Best index 1 
+, Best parameters {'activation': 'tanh', 'early_stopping': True, 'hidden_layer_sizes': (10, 33, 1), 'learning_rate': 'invscaling', 'max_iter': 10000, 'solver': 'adam', 'validation_fraction': 0.2, 'verbose': True} 
+, Best Score 0.5517927318057028 

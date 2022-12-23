@@ -1,0 +1,4 @@
+Best estimator GaussianNB(var_smoothing=0.055) 
+, Best index 0 
+, Best parameters {'var_smoothing': 0.055} 
+, Best Score 0.4600000000000001 

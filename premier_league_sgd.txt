@@ -1,0 +1,6 @@
+Best estimator SGDClassifier(alpha=0.005, early_stopping=True, eta0=0.6, l1_ratio=1.0,
+              learning_rate='constant', loss='squared_error', max_iter=10000,
+              n_iter_no_change=10, power_t=1.2, random_state=42, shuffle=False) 
+, Best index 78432 
+, Best parameters {'alpha': 0.005, 'average': False, 'early_stopping': True, 'eta0': 0.6, 'l1_ratio': 1.0, 'learning_rate': 'constant', 'loss': 'squared_error', 'max_iter': 10000, 'n_iter_no_change': 10, 'penalty': 'l2', 'power_t': 1.2, 'random_state': 42, 'shuffle': False, 'warm_start': False} 
+, Best Score 0.5800000000000001 

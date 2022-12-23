@@ -1,0 +1,4 @@
+Best estimator SVC(C=1.4, coef0=0.4, decision_function_shape='ovo', degree=1, random_state=42) 
+, Best index 0 
+, Best parameters {'C': 1.4, 'coef0': 0.4, 'decision_function_shape': 'ovo', 'degree': 1, 'kernel': 'rbf', 'random_state': 42} 
+, Best Score 0.38 

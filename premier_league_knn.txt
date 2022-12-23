@@ -1,0 +1,4 @@
+Best estimator KNeighborsClassifier(leaf_size=10, n_neighbors=2, p=6, weights='distance') 
+, Best index 0 
+, Best parameters {'leaf_size': 10, 'n_neighbors': 2, 'p': 6, 'weights': 'distance'} 
+, Best Score 0.42000000000000004 

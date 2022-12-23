@@ -1,0 +1,7 @@
+Best estimator RandomForestClassifier(ccp_alpha=0.8, class_weight='balanced',
+                       criterion='entropy', min_samples_leaf=20,
+                       min_samples_split=5, min_weight_fraction_leaf=0.5,
+                       n_estimators=46, random_state=42) 
+, Best index 16 
+, Best parameters {'warm_start': False, 'random_state': 42, 'n_estimators': 46, 'min_weight_fraction_leaf': 0.5, 'min_samples_split': 5, 'min_samples_leaf': 20, 'criterion': 'entropy', 'class_weight': 'balanced', 'ccp_alpha': 0.8} 
+, Best Score 0.3847983849105736 

@@ -1,0 +1,4 @@
+Best estimator LinearDiscriminantAnalysis(shrinkage=1, solver='lsqr', store_covariance=True) 
+, Best index 2 
+, Best parameters {'shrinkage': 1, 'solver': 'lsqr', 'store_covariance': True} 
+, Best Score 0.36 
